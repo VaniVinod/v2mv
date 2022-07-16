@@ -1,0 +1,23 @@
+{
+  "name": "v2mv",
+  "version": "1.0.0",
+  "description": "Build the website from scratch",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaniVinod/v2mv.git"
+  },
+  "author": "Arunesh Choudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaniVinod/v2mv/issues"
+  },
+  "homepage": "https://github.com/VaniVinod/v2mv#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

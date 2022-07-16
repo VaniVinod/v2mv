@@ -14,7 +14,5 @@ Currently, there are some posts in the form of question answers which has few at
 
 ### Requirements:
 
-User must be able to sort the posts based on certain criteria.
-
-Initially, we can start with category.
+User must be able to sort the posts based on certain criteria. Initially, we can start sort based on category.
 
